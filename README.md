@@ -1,6 +1,6 @@
 # Myntra Website Clone Project
 
-Hosted Myntra Clone Website Link : https://mahesh-jangid.github.io/Myntra-clone-project/
+
 
 ## Features
 
@@ -23,6 +23,7 @@ We have six member team group :
 3. M GNANENDRA REDDY
 4. Aniruddha Nalage
 5. Rohit Singh
+6. Manjeet Singh
 
 ## Techologies Used :
 
